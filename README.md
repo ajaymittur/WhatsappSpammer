@@ -1,5 +1,5 @@
 # WhatsappSpammer
-Simple CLI to Spam a Whatsapp Group or Contact
+Simple CLI to spam a whatsapp group or contact with a specified message.
 
 ## To Run
 1. Run `pip install selenium` in a terminal
